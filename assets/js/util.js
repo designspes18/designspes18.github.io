@@ -177,7 +177,7 @@
 
         }
 
-        $("body").css({overflow:'hidden'}).bind('touchmove', function(e){e.preventDefault()});
+       
 
         // Event: Touch stuff.
         $this.on('touchstart', function(event) {
