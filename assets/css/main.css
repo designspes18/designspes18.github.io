@@ -2698,7 +2698,7 @@
 			}
 
 		.poptrox-popup .pic { overflow:auto; }
-		.poptrox-popup .pic img { width:auto; max-width:100%; height:auto; max-height:100%; }
+		.poptrox-popup .pic img { width:auto; max-width:100%; height:auto; }
 		.poptrox-popup .caption {
 			background: #fff;
 			bottom: 0;
