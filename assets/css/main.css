@@ -25,10 +25,7 @@
 
 	body {
 		line-height: 1;
-		overflow:hidden;
 	}
-
-	body.is-touch { overflow:auto !important; }
 
 	ol, ul {
 		list-style: none;
