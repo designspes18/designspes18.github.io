@@ -2664,7 +2664,7 @@
 		-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
 		background: #fff;
 		box-shadow: 0 0.1em 0.15em 0 rgba(0, 0, 0, 0.15);
-		overflow: hidden;
+		overflow: visible;
 		padding-bottom: 3em;
 	}
 
