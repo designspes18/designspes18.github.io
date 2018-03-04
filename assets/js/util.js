@@ -251,6 +251,7 @@
 
         // Event: Prevent certain events inside the panel from bubbling.
         $this.on('click touchend touchstart touchmove', function(event) {
+            event.preventDefault();
             event.stopPropagation();
         });
 
