@@ -178,7 +178,6 @@
         }
 
        
-
         // Event: Touch stuff.
         $this.on('touchstart', function(event) {
 
