@@ -2724,7 +2724,7 @@
 			opacity: 0;
 			position: absolute;
 			top: 0;
-			width: 50%;
+			width: 50px;
 		}
 
 			.poptrox-popup .nav-next:before,
@@ -2751,7 +2751,7 @@
 			}
 
 		.poptrox-popup .nav-next {
-			right: 0;
+			right: -50px;
 		}
 
 			.poptrox-popup .nav-next:before {
@@ -2760,7 +2760,7 @@
 			}
 
 		.poptrox-popup .nav-previous {
-			left: 0;
+			left: -50px;
 		}
 
 			.poptrox-popup .nav-previous:before {
