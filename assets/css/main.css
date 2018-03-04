@@ -2700,7 +2700,7 @@
 		.poptrox-popup .pic { overflow:auto; }
 		.poptrox-popup .pic img { width:auto; max-width:100%; height:auto; }
 		.poptrox-popup .caption {
-			background: #fff;
+			background: rgba(255,255,255,0.8);
 			bottom: 0;
 			cursor: default;
 			font-size: 0.9em;
